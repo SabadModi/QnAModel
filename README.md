@@ -1,5 +1,7 @@
 # **QnAModel**
 
+# **THIS REPOSITORY IS NOW ARCHIVED. THE REPO HAS BEEN MOVED [HERE](https://github.com/SabadModi/Ans4Skl)**
+
 ## **Installation**
 1. Open the .ipynb file and click on open in Google Colab
 
